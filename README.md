@@ -3,18 +3,23 @@
 
 star,please.
 
-Telegram交流群：https://t.me/ai_cn2023 
+Telegram交流群：https://t.me/ai_cn2023   
 QQ群：https://qm.qq.com/q/cCKTiXSn3G
 
-
-新版本：https://o-b.pages.dev/
+## 在线访问(使用Cloudflare Pages部署)
+新版本：https://o-b.woodchen.ink/ 或者  https://o-b.pages.dev  
 daisyUI版本：https://daisyui.o-b.pages.dev/
 
 ## [English](README_EN.md)
 
 ## 最新示意图(2023.08.28)
 
-![示意图](https://cdn-img.czl.net/2023/09/01/64f1ab8497308.png)
+![screenshot-20231215-003431](https://github.com/woodchen-ink/openai-billing-query/assets/95951386/076cbeff-7b93-45a8-bf36-303a1dc711f0)
+
+![screenshot-20231215-003509](https://github.com/woodchen-ink/openai-billing-query/assets/95951386/e5da95ec-544e-4541-944e-308cf8ffe0e6)
+
+
+
 
 
 ## SESS ID获取方法
